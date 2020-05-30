@@ -13,7 +13,7 @@ social:
   url: https://github.com
 - title: youtube
   url: https://github.com
-- title: slack
+- title: instagram
   url: https://github.com
 featured: false
 
