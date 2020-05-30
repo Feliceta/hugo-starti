@@ -11,7 +11,7 @@ social:
   url: https://github.com
 - title: github
   url: https://github.com
-- title: github
+- title: youtube
   url: https://github.com
 - title: github
   url: https://github.com
