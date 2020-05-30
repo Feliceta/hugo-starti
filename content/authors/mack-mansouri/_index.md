@@ -7,7 +7,7 @@ avatar: "/images/mack-mansouri.jpg"
 social:
 - title: github
   url: https://github.com
-- title: github
+- title: twitter
   url: https://github.com
 - title: github
   url: https://github.com
