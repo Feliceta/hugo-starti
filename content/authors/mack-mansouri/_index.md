@@ -13,7 +13,7 @@ social:
   url: https://github.com
 - title: youtube
   url: https://github.com
-- title: github
+- title: float
   url: https://github.com
 featured: false
 
